@@ -174,7 +174,7 @@ def main():
         elif choice == "Q" :
             break
         
-    print ("End Grade Processing App")
+    print ("End joint tax calculate App")
     
 if __name__ == '__main__':
     main()
